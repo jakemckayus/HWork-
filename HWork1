@@ -1,0 +1,13 @@
+1.i: In initially assessing the layout of the data, the columns appear to be different variables about the different items that Chipotle offers in their menu, which are represented in the rows. It is important to note though that each order can have multiple items, thus resulting in multiple rows at times (e.g. order number 1 has 4 items within it - Chips and fresh tomato salsa, Izze, Nantucket Nectar, and Chips and chili salsa.
+
+1.ii: There appears to be 1834 orders based on the order id variable --- "wc -w " used
+
+1.iii: The file appears to contain 4623 lines including the column names ---- "wc -l " used
+
+1.iv: The chicken burrito (591 quantity) appears to be more popular than the steak burrito (386 quantity) "wc -w " used
+
+1.v: The chicken burrito with black beans (307 quantity) appears to be more prevalent than the chicken burrito with pinto beans (108 quantity) "wc -w " used
+
+2." find . -name *.csv" and " find . -name *.tsv" used
+
+3."wc -w " used
